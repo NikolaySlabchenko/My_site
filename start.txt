@@ -1,0 +1,2 @@
+I did this file to fix my bet to make a correctly working website for 90 days to practice my python/django skills and find a good job as a debeloper.
+01.09.2021
